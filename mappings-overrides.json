@@ -312,7 +312,7 @@
   "ui-consortia-settings.consortium-manager.share": {
     "resource": "UI-Consortia-Settings Consortium-Manager Share",
     "action": "execute",
-    "type": "data"
+    "type": "procedural"
   },
   "ui-dashboard.dashboards.admin": {
     "resource": "UI-Dashboard Dashboards Admin",
