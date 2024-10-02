@@ -419,6 +419,11 @@
     "action": "execute",
     "type": "procedural"
   },
+  "orders.bypass-acquisition-units": {
+    "resource": "Orders Bypass-Acquisition-Units",
+    "action": "execute",
+    "type": "procedural"
+  },
   "ui-eholdings.app.enabled": {
     "resource": "UI-Eholdings App Enabled",
     "action": "view",
@@ -911,8 +916,8 @@
   },
   "invoices.bypass-acquisition-units": {
     "resource": "Bypass acquisition units checks",
-    "action": "manage",
-    "type": "data"
+    "action": "execute",
+    "type": "procedural"
   },
   "ui-tenant-settings.settings.locale": {
     "resource": "UI-Tenant-Settings Settings Locale",
