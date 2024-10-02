@@ -1,29 +1,4 @@
 {
-  "erm.agreements.item.clone": {
-    "resource": "ERM Agreements Item Clone",
-    "action": "execute",
-    "type": "procedural"
-  },
-  "erm.agreements.export": {
-    "resource": "ERM Agreements Export",
-    "action": "execute",
-    "type": "procedural"
-  },
-  "erm.agreements.validate": {
-    "resource": "ERM Agreements Validation",
-    "action": "execute",
-    "type": "procedural"
-  },
-  "erm.sts.template": {
-    "resource": "ERM STS Template",
-    "action": "execute",
-    "type": "procedural"
-  },
-  "erm.admin.action": {
-    "resource": "ERM Admin Action",
-    "action": "view",
-    "type": "settings"
-  },
   "circulation.override-renewal-block": {
     "resource": "Circulation Override-Renewal-Block",
     "action": "execute",
@@ -114,26 +89,6 @@
     "action": "execute",
     "type": "procedural"
   },
-  "licenses.licenses.item.clone": {
-    "resource": "Licenses Clone Item",
-    "action": "execute",
-    "type": "procedural"
-  },
-  "licenses.compareTerms": {
-    "resource": "Licenses Compare Terms",
-    "action": "execute",
-    "type": "procedural"
-  },
-  "licenses.files.item.download": {
-    "resource": "Licenses Download Files",
-    "action": "execute",
-    "type": "procedural"
-  },
-  "licenses.admin.action": {
-    "resource": "Licenses Admin Action",
-    "action": "view",
-    "type": "settings"
-  },
   "notes.allops": {
     "resource": "Notes All Operations",
     "action": "manage",
@@ -163,26 +118,6 @@
     "resource": "Sender Message-Delivery",
     "action": "execute",
     "type": "procedural"
-  },
-  "servint.admin.action": {
-    "resource": "Servint Admin Action",
-    "action": "view",
-    "type": "settings"
-  },
-  "servint.dashboards.admin": {
-    "resource": "Servint Dashboards Admin",
-    "action": "view",
-    "type": "settings"
-  },
-  "servint.numberGenerator.use": {
-    "resource": "Servint NumberGenerator Use",
-    "action": "view",
-    "type": "settings"
-  },
-  "servint.numberGenerator.config": {
-    "resource": "Servint NumberGenerator Config",
-    "action": "view",
-    "type": "settings"
   },
   "mod-settings.entries.upload": {
     "resource": "Mod-Settings Entries Upload",
@@ -313,11 +248,6 @@
     "resource": "UI-Consortia-Settings Consortium-Manager Share",
     "action": "execute",
     "type": "procedural"
-  },
-  "ui-dashboard.dashboards.admin": {
-    "resource": "UI-Dashboard Dashboards Admin",
-    "action": "manage",
-    "type": "settings"
   },
   "ui-data-export.app.enabled": {
     "resource": "UI-Data-Export App Enabled",
