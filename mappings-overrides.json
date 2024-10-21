@@ -784,6 +784,16 @@
     "action": "view",
     "type": "data"
   },
+  "ui-users.view-reading-room-access": {
+    "resource": "UI-Users View-Reding-Room-Access",
+    "action": "view",
+    "type": "data"
+  },
+  "ui-users.edit-reading-room-access": {
+    "resource": "UI-Users Edit-Reding-Room-Access",
+    "action": "view",
+    "type": "data"
+  },
   "ui-harvester-admin.read-jobs": {
     "resource": "UI-Harvester-Admin Jobs",
     "action": "view",
