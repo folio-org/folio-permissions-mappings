@@ -719,6 +719,21 @@
     "action": "manage",
     "type": "data"
   },
+  "ui-users.view-patron-notice-print-jobs": {
+    "resource": "UI-Users View-Patron-Notice-Print-Jobs",
+    "action": "manage",
+    "type": "data"
+  },
+  "ui-users.patron-pre-registrations-view": {
+    "resource": "UI-Users Patron-Pre-Registrations-View",
+    "action": "manage",
+    "type": "data"
+  },
+  "ui-users.remove-patron-notice-print-jobs": {
+    "resource": "UI-Users Remove-Patron-Notice-Print-Jobs",
+    "action": "manage",
+    "type": "data"
+  },
   "ui-users.loans.renew": {
     "resource": "UI-Users Loans Renew",
     "action": "execute",
