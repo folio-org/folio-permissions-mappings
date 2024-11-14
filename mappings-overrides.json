@@ -1098,5 +1098,15 @@
     "resource": "UI-Finance encumbrance unrelease",
     "action": "execute",
     "type": "procedural"
+  },
+  "mod-settings.global.write.authority-storage": {
+    "resource": "Authority storage settings",
+    "action": "edit",
+    "type": "settings"
+  },
+  "mod-settings.global.read.authority-storage": {
+    "resource": "Authority storage settings",
+    "action": "view",
+    "type": "settings"
   }
 }
