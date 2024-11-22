@@ -1108,15 +1108,5 @@
     "resource": "Authority storage settings",
     "action": "view",
     "type": "settings"
-  },
-  "tlr.consortium-tlr.view": {
-    "resource": "Entire set of permissions needed to use Consortium title level requests settings view",
-    "action": "view",
-    "type": "data"
-  },
-  "tlr.consortium-tlr.edit": {
-    "resource": "Entire set of permissions needed to use Consortium title level requests settings edit",
-    "action": "edit",
-    "type": "data"
   }
 }
