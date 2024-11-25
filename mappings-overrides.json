@@ -1108,5 +1108,15 @@
     "resource": "Authority storage settings",
     "action": "view",
     "type": "settings"
+  },
+  "mod-settings.global.read.circulation": {
+    "resource": "Circulation functionality settings",
+    "action": "view",
+    "type": "settings"
+  },
+  "mod-settings.global.write.circulation": {
+    "resource": "Circulation functionality settings",
+    "action": "edit",
+    "type": "settings"
   }
 }
