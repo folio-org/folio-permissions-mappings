@@ -979,11 +979,6 @@
     "action": "manage",
     "type": "settings"
   },
-  "ui-organizations.acqUnits.assign": {
-    "resource": "Organizations Acquisition Units Assignment",
-    "action": "create",
-    "type": "data"
-  },
   "ui-organizations.settings": {
     "resource": "Organizations Settings",
     "action": "manage",
