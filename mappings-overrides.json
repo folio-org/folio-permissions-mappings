@@ -209,6 +209,11 @@
     "action": "edit",
     "type": "data"
   },
+  "patron-pin.validate": {
+    "resource": "Patron-Pin Validate",
+    "action": "execute",
+    "type": "procedural"
+  },
   "users.read.basic": {
     "resource": "Users Basic-Information",
     "action": "view",
