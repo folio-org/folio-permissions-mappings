@@ -1118,5 +1118,15 @@
     "resource": "Circulation functionality settings",
     "action": "edit",
     "type": "settings"
+  },
+  "mod-settings.global.read.mod-rtac": {
+    "resource": "Read settings for mod-rtac",
+    "action": "view",
+    "type": "settings"
+  },
+  "mod-settings.global.write.mod-rtac": {
+    "resource": "Write settings for mod-rtac",
+    "action": "edit",
+    "type": "settings"
   }
 }
