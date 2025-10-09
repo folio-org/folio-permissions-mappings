@@ -1128,5 +1128,25 @@
     "resource": "Write settings for mod-rtac",
     "action": "edit",
     "type": "settings"
+  },
+  "mod-settings.global.read.mod-erm-usage-harvester": {
+    "resource": "Read settings for mod-erm-usage-harvester",
+    "action": "view",
+    "type": "settings"
+  },
+  "mod-settings.global.write.mod-erm-usage-harvester": {
+    "resource": "Write settings for mod-erm-usage-harvester",
+    "action": "edit",
+    "type": "settings"
+  },
+  "mod-settings.global.read.ui-erm-usage": {
+    "resource": "Read settings for ui-erm-usage",
+    "action": "view",
+    "type": "settings"
+  },
+  "mod-settings.global.write.ui-erm-usage": {
+    "resource": "Write settings for ui-erm-usage",
+    "action": "edit",
+    "type": "settings"
   }
 }
