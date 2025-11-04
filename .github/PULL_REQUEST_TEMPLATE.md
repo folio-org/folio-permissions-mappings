@@ -16,12 +16,10 @@
   If you have a relevant Rally issue, add a link directly to the issue URL here.
  -->
 
-## Approach
+## Permission Mapping Acknowledgment
 
-<!--
- How does this change fulfill the purpose? It's best to talk
- high-level strategy and avoid code-splaining the commit history.
+- [ ] I confirm I did not remove or alter existing permission mappings in `mappings-overrides.json`.
 
- The goal is not only to explain what you did, but help other
- developers *work* with your solution in the future.
--->
+---
+
+**Reviewer check:** If any deletion is found in `mappings-overrides.json`, request changes.
