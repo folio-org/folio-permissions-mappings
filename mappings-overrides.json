@@ -1148,5 +1148,15 @@
     "resource": "Write settings for ui-erm-usage",
     "action": "edit",
     "type": "settings"
+  },
+  "mod-settings.global.read.edge-sip2": {
+    "resource": "Read settings for edge-sip2",
+    "action": "view",
+    "type": "settings"
+  },
+  "mod-settings.global.write.edge-sip2": {
+    "resource": "Write settings for edge-sip2",
+    "action": "edit",
+    "type": "settings"
   }
 }
