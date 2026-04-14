@@ -1129,6 +1129,16 @@
     "action": "edit",
     "type": "settings"
   },
+  "mod-settings.global.read.mod-ncip": {
+    "resource": "Read settings for mod-ncip",
+    "action": "view",
+    "type": "settings"
+  },
+  "mod-settings.global.write.mod-ncip": {
+    "resource": "Write settings for mod-ncip",
+    "action": "edit",
+    "type": "settings"
+  },
   "mod-settings.global.read.mod-erm-usage-harvester": {
     "resource": "Read settings for mod-erm-usage-harvester",
     "action": "view",
